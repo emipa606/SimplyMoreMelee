@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3073000389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df06c3a4b53e5e4677abf23499bc726a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df06c3a4b53e5e4677abf23499bc726a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMFireaxe.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMTrenchKnifeM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMSledgehammerM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMalletM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatChainedM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBaton.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMWarclub.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKukri.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPike.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBillhookMachete.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPollaxeM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMClaymore.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMGlaive.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPitchforkM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMWarclubM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMCrowbarM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMaul.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPickaxe.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBardiche.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatonM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMScimitarM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHookSword.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMCleaverM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMScythe.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKhopeshM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBardicheM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMallet.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMCrowbar.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMGlaiveM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMDagger.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMTrenchClub.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKukriM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPikeM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHatchet.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMTrenchKnife.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMQuarterstaffM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBillhookMacheteM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHookSwordM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKarambit.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHalberd.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPickaxeM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMCleaver.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKhopesh.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatChained.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMScytheM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMacheteM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPitchfork.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMDaggerM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMTrenchClubM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMClaymoreM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMSledgehammer.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMPollaxe.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMachete.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMMaulM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMKarambitM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMFireaxeM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHatchetM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMSickleM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMSickle.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatSpikedM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMQuarterstaff.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMHalberdM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBat.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMScimitar.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMZweihander.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMZweihanderM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatM.png
+- Assets/Data/Mlie.SimplyMoreMelee/Textures/Melee/SMMBatSpiked.png
+Dependencies: []

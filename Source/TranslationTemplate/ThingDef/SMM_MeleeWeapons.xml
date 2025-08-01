@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bardiche -->
+  <SMM_Bardiche.label>bardiche</SMM_Bardiche.label>
+  <!-- EN: A long pole-arm with a large, hooked blade at the end. Slow, but inflicts a lot of damage. -->
+  <SMM_Bardiche.description>A long pole-arm with a large, hooked blade at the end. Slow, but inflicts a lot of damage.</SMM_Bardiche.description>
+  <!-- EN: handle -->
+  <SMM_Bardiche.tools.handle.label>handle</SMM_Bardiche.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Bardiche.tools.point.label>point</SMM_Bardiche.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Bardiche.tools.edge.label>edge</SMM_Bardiche.tools.edge.label>
+  <!-- EN: bat -->
+  <SMM_Bat.label>bat</SMM_Bat.label>
+  <!-- EN: The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs. -->
+  <SMM_Bat.description>The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs.</SMM_Bat.description>
+  <!-- EN: handle -->
+  <SMM_Bat.tools.handle.label>handle</SMM_Bat.tools.handle.label>
+  <!-- EN: barrel -->
+  <SMM_Bat.tools.barrel.label>barrel</SMM_Bat.tools.barrel.label>
+  <!-- EN: chained bat -->
+  <SMM_BatChained.label>chained bat</SMM_BatChained.label>
+  <!-- EN: The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs. This one has been wrapped in chains to provide some extra punch to the impact. -->
+  <SMM_BatChained.description>The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs. This one has been wrapped in chains to provide some extra punch to the impact.</SMM_BatChained.description>
+  <!-- EN: handle -->
+  <SMM_BatChained.tools.handle.label>handle</SMM_BatChained.tools.handle.label>
+  <!-- EN: barrel -->
+  <SMM_BatChained.tools.barrel.label>barrel</SMM_BatChained.tools.barrel.label>
+  <!-- EN: baton -->
+  <SMM_Baton.label>baton</SMM_Baton.label>
+  <!-- EN: A light blunt weapon used by police and military across the galaxy as a defensive weapon. -->
+  <SMM_Baton.description>A light blunt weapon used by police and military across the galaxy as a defensive weapon.</SMM_Baton.description>
+  <!-- EN: handle -->
+  <SMM_Baton.tools.handle.label>handle</SMM_Baton.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Baton.tools.head.label>head</SMM_Baton.tools.head.label>
+  <!-- EN: spiked bat -->
+  <SMM_BatSpiked.label>spiked bat</SMM_BatSpiked.label>
+  <!-- EN: The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs. This one has nails driven through the end. If the spikes don't kill you, the tetanus will. -->
+  <SMM_BatSpiked.description>The bat is a weapon once used long ago in the ancient game of baseball. The sport has long since faded into obscurity, but the bat has stuck around, though it's now used for bashing in skulls instead of hitting home runs. This one has nails driven through the end. If the spikes don't kill you, the tetanus will.</SMM_BatSpiked.description>
+  <!-- EN: handle -->
+  <SMM_BatSpiked.tools.handle.label>handle</SMM_BatSpiked.tools.handle.label>
+  <!-- EN: barrel -->
+  <SMM_BatSpiked.tools.barrel.label>barrel</SMM_BatSpiked.tools.barrel.label>
+  <!-- EN: nails -->
+  <SMM_BatSpiked.tools.nails.label>nails</SMM_BatSpiked.tools.nails.label>
+  <!-- EN: billhook -->
+  <SMM_Billhook.label>billhook</SMM_Billhook.label>
+  <!-- EN: A short bladed machete with a hooked end. Often used by farmers, as the hooked blade allows it slice through foliage and crops with ease.\n\n[BONUS]: +15% Plant Work Speed. -->
+  <SMM_Billhook.description>A short bladed machete with a hooked end. Often used by farmers, as the hooked blade allows it slice through foliage and crops with ease.
+
+[BONUS]: +15% Plant Work Speed.</SMM_Billhook.description>
+  <!-- EN: handle -->
+  <SMM_Billhook.tools.handle.label>handle</SMM_Billhook.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Billhook.tools.point.label>point</SMM_Billhook.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Billhook.tools.edge.label>edge</SMM_Billhook.tools.edge.label>
+  <!-- EN: claymore -->
+  <SMM_Claymore.label>claymore</SMM_Claymore.label>
+  <!-- EN: A large two handed sword of ancient design, the Claymore can pierce and slash through flesh and bone alike. -->
+  <SMM_Claymore.description>A large two handed sword of ancient design, the Claymore can pierce and slash through flesh and bone alike.</SMM_Claymore.description>
+  <!-- EN: handle -->
+  <SMM_Claymore.tools.handle.label>handle</SMM_Claymore.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Claymore.tools.point.label>point</SMM_Claymore.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Claymore.tools.edge.label>edge</SMM_Claymore.tools.edge.label>
+  <!-- EN: cleaver -->
+  <SMM_Cleaver.label>cleaver</SMM_Cleaver.label>
+  <!-- EN: A short knife with a heavy broad blade. Perfect for butchering carcasses.\n\n[BONUS]: +10% Butchery Speed and +5 Butchery Effiency. -->
+  <SMM_Cleaver.description>A short knife with a heavy broad blade. Perfect for butchering carcasses.
+
+[BONUS]: +10% Butchery Speed and +5 Butchery Effiency.</SMM_Cleaver.description>
+  <!-- EN: handle -->
+  <SMM_Cleaver.tools.handle.label>handle</SMM_Cleaver.tools.handle.label>
+  <!-- EN: edge -->
+  <SMM_Cleaver.tools.edge.label>edge</SMM_Cleaver.tools.edge.label>
+  <!-- EN: crowbar -->
+  <SMM_Crowbar.label>crowbar</SMM_Crowbar.label>
+  <!-- EN: A tool with a chiseled end and a curved head. Often used to open wooden crates or to remove large nails, but can be used to lethal effect with wielded as a weapon. -->
+  <SMM_Crowbar.description>A tool with a chiseled end and a curved head. Often used to open wooden crates or to remove large nails, but can be used to lethal effect with wielded as a weapon.</SMM_Crowbar.description>
+  <!-- EN: handle -->
+  <SMM_Crowbar.tools.handle.label>handle</SMM_Crowbar.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Crowbar.tools.head.label>head</SMM_Crowbar.tools.head.label>
+  <!-- EN: dagger -->
+  <SMM_Dagger.label>dagger</SMM_Dagger.label>
+  <!-- EN: A small knife with a pointed, double edged blade. -->
+  <SMM_Dagger.description>A small knife with a pointed, double edged blade.</SMM_Dagger.description>
+  <!-- EN: handle -->
+  <SMM_Dagger.tools.handle.label>handle</SMM_Dagger.tools.handle.label>
+  <!-- EN: blade -->
+  <SMM_Dagger.tools.blade.label>blade</SMM_Dagger.tools.blade.label>
+  <!-- EN: point -->
+  <SMM_Dagger.tools.point.label>point</SMM_Dagger.tools.point.label>
+  <!-- EN: fireaxe -->
+  <SMM_Fireaxe.label>fireaxe</SMM_Fireaxe.label>
+  <!-- EN: A large axe with a razor sharp, broad blade on one side and a pick on the other. Much heavier than the Hatcher, but much more damaging. -->
+  <SMM_Fireaxe.description>A large axe with a razor sharp, broad blade on one side and a pick on the other. Much heavier than the Hatcher, but much more damaging.</SMM_Fireaxe.description>
+  <!-- EN: handle -->
+  <SMM_Fireaxe.tools.handle.label>handle</SMM_Fireaxe.tools.handle.label>
+  <!-- EN: pick -->
+  <SMM_Fireaxe.tools.pick.label>pick</SMM_Fireaxe.tools.pick.label>
+  <!-- EN: edge -->
+  <SMM_Fireaxe.tools.edge.label>edge</SMM_Fireaxe.tools.edge.label>
+  <!-- EN: glaive -->
+  <SMM_Glaive.label>glaive</SMM_Glaive.label>
+  <!-- EN: A pole-arm with a large blade on the end. Faster than the other pole-arms, but not as damaging. -->
+  <SMM_Glaive.description>A pole-arm with a large blade on the end. Faster than the other pole-arms, but not as damaging.</SMM_Glaive.description>
+  <!-- EN: handle -->
+  <SMM_Glaive.tools.handle.label>handle</SMM_Glaive.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Glaive.tools.point.label>point</SMM_Glaive.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Glaive.tools.edge.label>edge</SMM_Glaive.tools.edge.label>
+  <!-- EN: halberd -->
+  <SMM_Halberd.label>halberd</SMM_Halberd.label>
+  <!-- EN: A long pole-arm with an axe head for hacking and a long spike for stabbing. Slower than the other pole-arms, but more effective. -->
+  <SMM_Halberd.description>A long pole-arm with an axe head for hacking and a long spike for stabbing. Slower than the other pole-arms, but more effective.</SMM_Halberd.description>
+  <!-- EN: handle -->
+  <SMM_Halberd.tools.handle.label>handle</SMM_Halberd.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Halberd.tools.point.label>point</SMM_Halberd.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Halberd.tools.edge.label>edge</SMM_Halberd.tools.edge.label>
+  <!-- EN: hatchet -->
+  <SMM_Hatchet.label>hatchet</SMM_Hatchet.label>
+  <!-- EN: A small, one handed axe. Fitted with a sharp head and a flat side for blunt work. -->
+  <SMM_Hatchet.description>A small, one handed axe. Fitted with a sharp head and a flat side for blunt work.</SMM_Hatchet.description>
+  <!-- EN: handle -->
+  <SMM_Hatchet.tools.handle.label>handle</SMM_Hatchet.tools.handle.label>
+  <!-- EN: hammerhead -->
+  <SMM_Hatchet.tools.hammerhead.label>hammerhead</SMM_Hatchet.tools.hammerhead.label>
+  <!-- EN: edge -->
+  <SMM_Hatchet.tools.edge.label>edge</SMM_Hatchet.tools.edge.label>
+  <!-- EN: hooksword -->
+  <SMM_Hooksword.label>hooksword</SMM_Hooksword.label>
+  <!-- EN: A short sword that ends in a hook. Hookswords are incredibly light, allowing the user to make quick strikes. -->
+  <SMM_Hooksword.description>A short sword that ends in a hook. Hookswords are incredibly light, allowing the user to make quick strikes.</SMM_Hooksword.description>
+  <!-- EN: handle -->
+  <SMM_Hooksword.tools.handle.label>handle</SMM_Hooksword.tools.handle.label>
+  <!-- EN: hook -->
+  <SMM_Hooksword.tools.hook.label>hook</SMM_Hooksword.tools.hook.label>
+  <!-- EN: edge -->
+  <SMM_Hooksword.tools.edge.label>edge</SMM_Hooksword.tools.edge.label>
+  <!-- EN: karambit -->
+  <SMM_Karambit.label>karambit</SMM_Karambit.label>
+  <!-- EN: A small, but incredibly sharp curved blade. Used to quickly and lethally strike at vital spots, cutting through flesh and bone alike. -->
+  <SMM_Karambit.description>A small, but incredibly sharp curved blade. Used to quickly and lethally strike at vital spots, cutting through flesh and bone alike.</SMM_Karambit.description>
+  <!-- EN: knuckle -->
+  <SMM_Karambit.tools.knuckle.label>knuckle</SMM_Karambit.tools.knuckle.label>
+  <!-- EN: blade -->
+  <SMM_Karambit.tools.blade.label>blade</SMM_Karambit.tools.blade.label>
+  <!-- EN: point -->
+  <SMM_Karambit.tools.point.label>point</SMM_Karambit.tools.point.label>
+  <!-- EN: khopesh -->
+  <SMM_Khopesh.label>khopesh</SMM_Khopesh.label>
+  <!-- EN: Often referred to as a "Sickle Sword", the Khopesh is a short curved sword evolved from battle axes. The inside curve of the weapon was designed to trap an opponents arm. -->
+  <SMM_Khopesh.description>Often referred to as a "Sickle Sword", the Khopesh is a short curved sword evolved from battle axes. The inside curve of the weapon was designed to trap an opponents arm.</SMM_Khopesh.description>
+  <!-- EN: handle -->
+  <SMM_Khopesh.tools.handle.label>handle</SMM_Khopesh.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Khopesh.tools.point.label>point</SMM_Khopesh.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Khopesh.tools.edge.label>edge</SMM_Khopesh.tools.edge.label>
+  <!-- EN: kukri -->
+  <SMM_Kukri.label>kukri</SMM_Kukri.label>
+  <!-- EN: A recurved knife used as both a tool and a weapon. Fast, and very sharp. -->
+  <SMM_Kukri.description>A recurved knife used as both a tool and a weapon. Fast, and very sharp.</SMM_Kukri.description>
+  <!-- EN: handle -->
+  <SMM_Kukri.tools.handle.label>handle</SMM_Kukri.tools.handle.label>
+  <!-- EN: blade -->
+  <SMM_Kukri.tools.blade.label>blade</SMM_Kukri.tools.blade.label>
+  <!-- EN: point -->
+  <SMM_Kukri.tools.point.label>point</SMM_Kukri.tools.point.label>
+  <!-- EN: machete -->
+  <SMM_Machete.label>machete</SMM_Machete.label>
+  <!-- EN: A sharp, broad bladed short sword. Often used as a tool for clearing brush in jungles and forest, but will cut through flesh just as easy. -->
+  <SMM_Machete.description>A sharp, broad bladed short sword. Often used as a tool for clearing brush in jungles and forest, but will cut through flesh just as easy.</SMM_Machete.description>
+  <!-- EN: handle -->
+  <SMM_Machete.tools.handle.label>handle</SMM_Machete.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Machete.tools.point.label>point</SMM_Machete.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Machete.tools.edge.label>edge</SMM_Machete.tools.edge.label>
+  <!-- EN: mallet -->
+  <SMM_Mallet.label>mallet</SMM_Mallet.label>
+  <!-- EN: A small hammer with a large blunt head. Inneffective as a weapon, but great for shaping hot metals at a smithy.\n\n[BONUS]: +8% Smithing Speed. -->
+  <SMM_Mallet.description>A small hammer with a large blunt head. Inneffective as a weapon, but great for shaping hot metals at a smithy.
+
+[BONUS]: +8% Smithing Speed.</SMM_Mallet.description>
+  <!-- EN: handle -->
+  <SMM_Mallet.tools.handle.label>handle</SMM_Mallet.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Mallet.tools.head.label>head</SMM_Mallet.tools.head.label>
+  <!-- EN: maul -->
+  <SMM_Maul.label>maul</SMM_Maul.label>
+  <!-- EN: A devastating heavy weapon with a sledge on one side and an axe head on the other. Can easily pulverize flesh and bone into dust. -->
+  <SMM_Maul.description>A devastating heavy weapon with a sledge on one side and an axe head on the other. Can easily pulverize flesh and bone into dust.</SMM_Maul.description>
+  <!-- EN: handle -->
+  <SMM_Maul.tools.handle.label>handle</SMM_Maul.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Maul.tools.head.label>head</SMM_Maul.tools.head.label>
+  <!-- EN: pickaxe -->
+  <SMM_Pickaxe.label>pickaxe</SMM_Pickaxe.label>
+  <!-- EN: An ancient tool, composed of a dense shaft with a double sided chisel head. Used around the galaxy in mining operations, but can also be used as a somewhat effective melee weapon.\n\n[BONUS]: +15% Mining Speed. -->
+  <SMM_Pickaxe.description>An ancient tool, composed of a dense shaft with a double sided chisel head. Used around the galaxy in mining operations, but can also be used as a somewhat effective melee weapon.
+
+[BONUS]: +15% Mining Speed.</SMM_Pickaxe.description>
+  <!-- EN: handle -->
+  <SMM_Pickaxe.tools.handle.label>handle</SMM_Pickaxe.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Pickaxe.tools.head.label>head</SMM_Pickaxe.tools.head.label>
+  <!-- EN: pike -->
+  <SMM_Pike.label>pike</SMM_Pike.label>
+  <!-- EN: A long pole-arm with a razor sharp pointed head, ideal for thrusting. -->
+  <SMM_Pike.description>A long pole-arm with a razor sharp pointed head, ideal for thrusting.</SMM_Pike.description>
+  <!-- EN: shaft -->
+  <SMM_Pike.tools.shaft.label>shaft</SMM_Pike.tools.shaft.label>
+  <!-- EN: point -->
+  <SMM_Pike.tools.point.label>point</SMM_Pike.tools.point.label>
+  <!-- EN: pitchfork -->
+  <SMM_Pitchfork.label>pitchfork</SMM_Pitchfork.label>
+  <!-- EN: A farming tool used for moving hay. While it's 4 pronged head is designed for stabbing throug piles of hay, it can just as easily stab through flesh. -->
+  <SMM_Pitchfork.description>A farming tool used for moving hay. While it's 4 pronged head is designed for stabbing throug piles of hay, it can just as easily stab through flesh.</SMM_Pitchfork.description>
+  <!-- EN: handle -->
+  <SMM_Pitchfork.tools.handle.label>handle</SMM_Pitchfork.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Pitchfork.tools.head.label>head</SMM_Pitchfork.tools.head.label>
+  <!-- EN: pollaxe -->
+  <SMM_Pollaxe.label>pollaxe</SMM_Pollaxe.label>
+  <!-- EN: A long pole-arm with a broad axe head on one side and a spiked hammer on the other. The most balanced of the pole-arms, combining damage and speed. -->
+  <SMM_Pollaxe.description>A long pole-arm with a broad axe head on one side and a spiked hammer on the other. The most balanced of the pole-arms, combining damage and speed.</SMM_Pollaxe.description>
+  <!-- EN: handle -->
+  <SMM_Pollaxe.tools.handle.label>handle</SMM_Pollaxe.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Pollaxe.tools.point-0.label>point</SMM_Pollaxe.tools.point-0.label>
+  <!-- EN: point -->
+  <SMM_Pollaxe.tools.point-1.label>point</SMM_Pollaxe.tools.point-1.label>
+  <!-- EN: edge -->
+  <SMM_Pollaxe.tools.edge.label>edge</SMM_Pollaxe.tools.edge.label>
+  <!-- EN: quarterstaff -->
+  <SMM_Quarterstaff.label>quarterstaff</SMM_Quarterstaff.label>
+  <!-- EN: A long polearm, composed of a heavy shaft with spiked braces on both ends. -->
+  <SMM_Quarterstaff.description>A long polearm, composed of a heavy shaft with spiked braces on both ends.</SMM_Quarterstaff.description>
+  <!-- EN: shaft -->
+  <SMM_Quarterstaff.tools.shaft.label>shaft</SMM_Quarterstaff.tools.shaft.label>
+  <!-- EN: head -->
+  <SMM_Quarterstaff.tools.head.label>head</SMM_Quarterstaff.tools.head.label>
+  <!-- EN: scimitar -->
+  <SMM_Scimitar.label>scimitar</SMM_Scimitar.label>
+  <!-- EN: A long sword with a back curved blade, originating from the eastern old era. -->
+  <SMM_Scimitar.description>A long sword with a back curved blade, originating from the eastern old era.</SMM_Scimitar.description>
+  <!-- EN: handle -->
+  <SMM_Scimitar.tools.handle.label>handle</SMM_Scimitar.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Scimitar.tools.point.label>point</SMM_Scimitar.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Scimitar.tools.edge.label>edge</SMM_Scimitar.tools.edge.label>
+  <!-- EN: scythe -->
+  <SMM_Scythe.label>scythe</SMM_Scythe.label>
+  <!-- EN: A rudimentary tool, composed of a long shaft with a curved blade at the end. While it is a decent weapon, the scythe is a far more efficient method of harvesting crops than picking them by hand.\n\n[BONUS]: +15% Plant Work Speed | +15% Harvest Yield. -->
+  <SMM_Scythe.description>A rudimentary tool, composed of a long shaft with a curved blade at the end. While it is a decent weapon, the scythe is a far more efficient method of harvesting crops than picking them by hand.
+
+[BONUS]: +15% Plant Work Speed | +15% Harvest Yield.</SMM_Scythe.description>
+  <!-- EN: handle -->
+  <SMM_Scythe.tools.handle.label>handle</SMM_Scythe.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Scythe.tools.point.label>point</SMM_Scythe.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Scythe.tools.edge.label>edge</SMM_Scythe.tools.edge.label>
+  <!-- EN: sickle -->
+  <SMM_Sickle.label>sickle</SMM_Sickle.label>
+  <!-- EN: A tool with a sharp curved blade, often used by farmers. The shape of the blade allows it harvest crops more efficiently than by hand.\n\n[BONUS]: +15% Plant Harvest Yield. -->
+  <SMM_Sickle.description>A tool with a sharp curved blade, often used by farmers. The shape of the blade allows it harvest crops more efficiently than by hand.
+
+[BONUS]: +15% Plant Harvest Yield.</SMM_Sickle.description>
+  <!-- EN: handle -->
+  <SMM_Sickle.tools.handle.label>handle</SMM_Sickle.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Sickle.tools.point.label>point</SMM_Sickle.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Sickle.tools.edge.label>edge</SMM_Sickle.tools.edge.label>
+  <!-- EN: sledgehammer -->
+  <SMM_Sledgehammer.label>sledgehammer</SMM_Sledgehammer.label>
+  <!-- EN: A heavy, double sided sledge, used for smashing rocks, but will smash skulls just as easy. -->
+  <SMM_Sledgehammer.description>A heavy, double sided sledge, used for smashing rocks, but will smash skulls just as easy.</SMM_Sledgehammer.description>
+  <!-- EN: handle -->
+  <SMM_Sledgehammer.tools.handle.label>handle</SMM_Sledgehammer.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Sledgehammer.tools.head.label>head</SMM_Sledgehammer.tools.head.label>
+  <!-- EN: trench club -->
+  <SMM_TrenchClub.label>trench club</SMM_TrenchClub.label>
+  <!-- EN: Trench Clubs are old world era weapons used in close quarters combat. A dense handle with a thick, spiked head makes for the lethal damage. -->
+  <SMM_TrenchClub.description>Trench Clubs are old world era weapons used in close quarters combat. A dense handle with a thick, spiked head makes for the lethal damage.</SMM_TrenchClub.description>
+  <!-- EN: handle -->
+  <SMM_TrenchClub.tools.handle.label>handle</SMM_TrenchClub.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_TrenchClub.tools.head.label>head</SMM_TrenchClub.tools.head.label>
+  <!-- EN: trench knife -->
+  <SMM_TrenchKnife.label>trench knife</SMM_TrenchKnife.label>
+  <!-- EN: An ancient knife design dated back to the wars of the old worlds. A razor sharp knife, with brass knuckles fused to the handle. -->
+  <SMM_TrenchKnife.description>An ancient knife design dated back to the wars of the old worlds. A razor sharp knife, with brass knuckles fused to the handle.</SMM_TrenchKnife.description>
+  <!-- EN: handle -->
+  <SMM_TrenchKnife.tools.handle.label>handle</SMM_TrenchKnife.tools.handle.label>
+  <!-- EN: knuckles -->
+  <SMM_TrenchKnife.tools.knuckles.label>knuckles</SMM_TrenchKnife.tools.knuckles.label>
+  <!-- EN: blade -->
+  <SMM_TrenchKnife.tools.blade.label>blade</SMM_TrenchKnife.tools.blade.label>
+  <!-- EN: point -->
+  <SMM_TrenchKnife.tools.point.label>point</SMM_TrenchKnife.tools.point.label>
+  <!-- EN: warclub -->
+  <SMM_Warclub.label>warclub</SMM_Warclub.label>
+  <!-- EN: A primitive weapon design often used by tribals on the outer rimworlds. A heavy shaft fitted with a rounded head. Simple, but quite effective. -->
+  <SMM_Warclub.description>A primitive weapon design often used by tribals on the outer rimworlds. A heavy shaft fitted with a rounded head. Simple, but quite effective.</SMM_Warclub.description>
+  <!-- EN: handle -->
+  <SMM_Warclub.tools.handle.label>handle</SMM_Warclub.tools.handle.label>
+  <!-- EN: head -->
+  <SMM_Warclub.tools.head.label>head</SMM_Warclub.tools.head.label>
+  <!-- EN: zweihander -->
+  <SMM_Zweihander.label>zweihander</SMM_Zweihander.label>
+  <!-- EN: A hulking two handed sword. While heavy and slow, the Zweihander can easily cleave through a would-be attacker. -->
+  <SMM_Zweihander.description>A hulking two handed sword. While heavy and slow, the Zweihander can easily cleave through a would-be attacker.</SMM_Zweihander.description>
+  <!-- EN: handle -->
+  <SMM_Zweihander.tools.handle.label>handle</SMM_Zweihander.tools.handle.label>
+  <!-- EN: point -->
+  <SMM_Zweihander.tools.point.label>point</SMM_Zweihander.tools.point.label>
+  <!-- EN: edge -->
+  <SMM_Zweihander.tools.edge.label>edge</SMM_Zweihander.tools.edge.label>
+</LanguageData>
